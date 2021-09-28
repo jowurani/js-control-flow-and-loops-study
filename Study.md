@@ -45,15 +45,15 @@ Use [DuckDuckGo](https://duckduckgo.com/) or your preferred search engine along 
     **Answer:**
 
     ```
-    Please write your answer here.
+    The loop does not stop it is an infinite loop, which is is not a good idea. 
     ```
 
 1. Using a "Fist to Five", what is your comfort and clarity level?
 
     ```
-    Comfort: 
+    Comfort: 5
 
-    Clarity: 
+    Clarity: 5
     ```
 
 ### Response Guidelines
