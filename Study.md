@@ -29,7 +29,7 @@ Use [DuckDuckGo](https://duckduckgo.com/) or your preferred search engine along 
     **Answer:**
 
     ```
-    Yes the alert message will show. I implemented it on my developer tools console.
+    Yes the alert message "👋 Hi!" will be shown.. I implemented it on my developer tools console.
     ```
 
 1. Will this loop ever stop? And is it a good idea?
@@ -45,7 +45,7 @@ Use [DuckDuckGo](https://duckduckgo.com/) or your preferred search engine along 
     **Answer:**
 
     ```
-    The loop does not stop it is an infinite loop, which is is not a good idea. 
+    The loop does not stop it is an infinite loop, which is is not a good idea. The  while(true) loop above will never stop it's an infinite loop, which is not a good idea, because most if not all programs are created to stop at some point. 
     ```
 
 1. Using a "Fist to Five", what is your comfort and clarity level?
