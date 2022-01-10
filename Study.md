@@ -29,7 +29,7 @@ Use [DuckDuckGo](https://duckduckgo.com/) or your preferred search engine along 
     **Answer:**
 
     ```
-    Please write your answer here.
+    Yes the alert "👋 Hi!" will be shown.
     ```
 
 1. Will this loop ever stop? And is it a good idea?
@@ -45,15 +45,15 @@ Use [DuckDuckGo](https://duckduckgo.com/) or your preferred search engine along 
     **Answer:**
 
     ```
-    Please write your answer here.
+    The  while(true) loop above will never stop it's an infinite loop, which is not a good idea, because most if not all programs are wanted to stop at some point.  
     ```
 
 1. Using a "Fist to Five", what is your comfort and clarity level?
 
     ```
-    Comfort: 
+    Comfort: 5
 
-    Clarity: 
+    Clarity: 5
     ```
 
 ### Response Guidelines
