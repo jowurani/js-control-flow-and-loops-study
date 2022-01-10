@@ -29,7 +29,7 @@ Use [DuckDuckGo](https://duckduckgo.com/) or your preferred search engine along 
     **Answer:**
 
     ```
-    Please write your answer here.
+    Yes the alert "👋 Hi!" will be shown.
     ```
 
 1. Will this loop ever stop? And is it a good idea?
